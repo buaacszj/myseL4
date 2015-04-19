@@ -1,1 +1,2 @@
-./.git
+./tools/kbuild/.gitignore ./libs/libplatsupport/.gitignore ./libs/libmuslc/.gitignore ./kernel/.gitignore
+
